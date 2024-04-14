@@ -1,6 +1,6 @@
-A Passionate Software devloper with the Goal of to get imaginary products to virtual products🌐🚀
+A Passionate about designing softwares that solve real-world problems. Enthusiastic, hardworking individual. Self-taught programmer🌐🚀
 - 👋 Hi, I’m @VYaswanthKumar
-- 👀 I’m interested in ...Developing projects 
+- 👀 I’m interested in ... designing softwares,Developing projects 
 - 🌱 I’m currently learning ...Python fullstack,java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vyaswanthkumar7@gmail.com
