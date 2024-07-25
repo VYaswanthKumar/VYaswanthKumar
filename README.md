@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Python Full Stack, ML, Core Java,**
 
-- 👨‍💻 All of my projects are available at [Portfolio.](https://vyaswanthkumar.github.io/Portfolio.com/)
+- 👨‍💻 Here's my [Portfolio.](https://vyaswanthkumar.github.io/Portfolio.com/)
 
 - 💬 Ask me about **Full Stack,web Development**
 
