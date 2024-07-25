@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Full Stack, Core Java**
 
-- 👨‍💻 All of my projects are available at [https://vyaswanthkumar.github.io/Portfolio.com/](Portfolio.)
+- 👨‍💻 All of my projects are available at [Portfolio.com](https://vyaswanthkumar.github.io/Portfolio.com/)
 
 - 💬 Ask me about **Full Stack,web Development**
 
