@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yaswanth Kumar</h1>
 <h3 align="center">A passionate full Stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif") 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vyaswanthkumar&label=Profile%20views&color=0e75b6&style=flat" alt="vyaswanthkumar" /> </p>
 
 <p align="left"> <a href="https://twitter.com/vyaswanthkumar7" target="blank"><img src="https://img.shields.io/twitter/follow/vyaswanthkumar7?logo=twitter&style=for-the-badge" alt="vyaswanthkumar7" /></a> </p>
 
-- 🌱 I’m currently learning **Python Full Stack, Core Java**
+- 🌱 I’m currently learning **Python Full Stack, ML, Core Java,**
 
 - 👨‍💻 All of my projects are available at [Portfolio.](https://vyaswanthkumar.github.io/Portfolio.com/)
 
