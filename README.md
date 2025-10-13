@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/vyaswanthkumar7" target="blank"><img src="https://img.shields.io/twitter/follow/vyaswanthkumar7?logo=twitter&style=for-the-badge" alt="vyaswanthkumar7" /></a> </p>
 
-- 🌱 I’m currently learning **Python Full Stack, ML,Integrating AI to my workflow**
+- 🌱 I’m currently learning **Python Full Stack, ML,Integrating AI into my workflow**
 
 - 👨‍💻 Here's my [Portfolio.](https://vyaswanthkumar.github.io/Portfolio.in/) 
 
-- 💬 Ask me about **Full Stack,web Development**
+- 💬 Ask me about **Full Stack, web Development**
 
 - 📫 How to reach me **vyaswanthkumar7@gmail.com**
 
 - ## 🏆 Open-Source Contribution
 
-💡 **Contributed to [scikit-learn](https://github.com/scikit-learn/scikit-learn)** (PR merged)  
+💡 **Contributed to [scikit-learn](https://github.com/scikit-learn/scikit-learn)** (fixed an import path issue in the metrics module)  
 🔗 [View Commit → 90d55e8](https://github.com/scikit-learn/scikit-learn/commit/90d55e84594045e5c1866cd8752447d9077244ac)
 
 <h3 align="left">Connect with me:</h3>
