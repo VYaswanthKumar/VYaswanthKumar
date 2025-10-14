@@ -10,15 +10,18 @@
 
 - 👨‍💻 Here's my [Portfolio.](https://vyaswanthkumar.github.io/Portfolio.in/) 
 
-- 💬 Ask me about **Full Stack, web Development**
+- 💬 Ask me about **Full Stack, web Development, APIs**
 
 - 📫 How to reach me **vyaswanthkumar7@gmail.com**
 
 - ## 🏆 Open-Source Contribution
 
+ 💡 **Contributed to [pandas](https://github.com/pandas-dev/pandas)** (replaced `ensure_clean_store` with `temp_file` in `test_time_series.py`)  
+🔗 [View Commit → 8d32d57](https://github.com/pandas-dev/pandas/commit/8d32d5728b18b87d14056ddfa8efa311c5f53df4)
+
 💡 **Contributed to [scikit-learn](https://github.com/scikit-learn/scikit-learn)** (fixed an import path issue in the metrics module)  
 🔗 [View Commit → 90d55e8](https://github.com/scikit-learn/scikit-learn/commit/90d55e84594045e5c1866cd8752447d9077244ac)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vyaswanthkumar7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vyaswanthkumar7" height="30" width="40" /></a>
